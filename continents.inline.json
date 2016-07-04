@@ -3,7 +3,7 @@
 "$schema": "http://json-schema.org/draft-04/schema#",
 "id": "https://api.guildwars2.com/v2/continents",
 "type": "array",
-"minItems": "2",
+"minItems": 2,
 "uniqueItems": false,
 "additionalItems": false,
 "items": {
