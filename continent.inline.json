@@ -39,8 +39,7 @@
       "additionalItems": true,
       "items": {
         "id": "https://api.guildwars2.com/v2/continents/{continentId}/floor",
-        "type": "integer",
-        "minimum": 0
+        "type": "integer"
       }
     },
     "id": {
