@@ -4,11 +4,6 @@
   "id": "https://api.guildwars2.com/v2/continents",
   "type": "array",
   "minItems": 2,
-  "uniqueItems": false,
-  "additionalItems": false,
-  "required": [
-    1
-  ],
   "description": "List of available continent IDs",
   "name": "continentIds",
   "items": {
